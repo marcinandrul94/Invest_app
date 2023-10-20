@@ -1,4 +1,0 @@
-print("test")
-
-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
-https://[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]@github.com/marcinandrul94/Invest_app.git
