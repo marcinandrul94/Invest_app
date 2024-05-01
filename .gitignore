@@ -1,3 +1,9 @@
+#secrets folder
+.secret/
+
+#calc
+calculatorapp.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
